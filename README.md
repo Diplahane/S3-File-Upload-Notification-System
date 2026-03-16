@@ -20,8 +20,7 @@ The S3 File Upload Notification System is an event driven AWS solution that auto
 - SNS sends email notification  
 - CloudWatch logs execution
 
-![MasterHead](https://github.com/user-attachments/assets/febec3e8-d943-4921-afbd-d37b0d30b097)
-
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/8afad979-93df-4a57-b3a9-9ddbc8ee2c9e" />
 
 ---
 ## 🚀 Step by Step Implementation
